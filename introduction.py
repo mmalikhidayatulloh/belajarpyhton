@@ -39,3 +39,14 @@ atau \
 baris \
 baru"""
 print(batalsplit)
+
+print("C:\\Users\\text.txt")
+print(r"C:\Users\text.txt")
+
+print(type(saya))
+
+
+
+
+
+
